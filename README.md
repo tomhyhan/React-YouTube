@@ -7,8 +7,8 @@ Tom Han
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
+<img src="https://res.cloudinary.com/dqxbx0voh/image/upload/v1611191695/yt2_qpslqa.png" alt="showcase">
+<img src="https://res.cloudinary.com/dqxbx0voh/image/upload/v1611191691/yt1_zvcgsn.png" alt="showcase">
 
 The goal of the project is to clone Youtube using React and Youtube api.
 
