@@ -1,4 +1,4 @@
-# Reminder-App-Project
+# YouTube Clone
 
 # Contributors
 
@@ -16,24 +16,22 @@ The goal of the project is to clone Youtube using React and Youtube api.
 
 Frameworks and libraries we used to build our project. 
 
-* [React]
-* [YouTube API]
+* React
+* YouTube API
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Once you have the repo cloned to your local computer, open the project folder with an editor and type "yarn start" in terminal. 
-Then go to localhost:3000 on your browser to access to the app. For more information on how to clone the repo, read "Installation"
-below. 
+Once you have the repo cloned to your local computer, open the project folder with an editor and type "yarn start" in terminal.  
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * yarn
   ```sh
-  npm install npm@latest -g
+  npm install yarn
   ```
 
 
